@@ -1,0 +1,5 @@
+CREATE TABLE APP.users
+(
+  id INT NOT NULL,
+  name VARCHAR(40) NOT NULL
+);
